@@ -1,2 +1,1 @@
-# coursera-test
-Coursera test repository
+Bird Website for Korean Birdwatchers
