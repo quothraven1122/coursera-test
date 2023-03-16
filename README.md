@@ -16,7 +16,7 @@ https://splashy-wishbone-068.notion.site/43fdb42ec0f2409087a678ba457c3b0e
 ## Rules :eagle:
 * Not Discussed Yet
 
-## Study Material
+## Study Material :swan:
 * **Front(React.js)** 
   * https://www.codecademy.com/courses/react-101/lessons/react-jsx-intro/exercises/hello-world
   * 리액트를 다루는 기술 (김민준 저자)
